@@ -67,7 +67,7 @@
     "influx": "5.0.7",
     "istanbul": "1.0.0-alpha.2",
     "joi": "10.6.0",
-    "jsonwebtoken": "8.0.0",
+    "jsonwebtoken": "9.0.0",
     "kafka-node": "2.2.3",
     "lcov2badge": "^0.1.0",
     "lodash": "4.17.4",
